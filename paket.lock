@@ -23,17 +23,17 @@ NUGET
       Owin (>= 1.0)
     Owin (1.0)
   remote: https://daily.websharper.com/nuget
-    WebSharper (4.6.1.381)
+    WebSharper (4.6.2.386)
       FSharp.Core (>= 4.2.3)
-    WebSharper.FSharp (4.6.1.381)
-      WebSharper (4.6.1.381)
-    WebSharper.Html (4.6.0.170)
+    WebSharper.FSharp (4.6.2.386)
+      WebSharper (4.6.2.386)
+    WebSharper.Html (4.6.1.172)
       IntelliFactory.Xml (>= 0.6.64 < 0.7)
-      WebSharper (>= 4.6.1 < 4.7)
-    WebSharper.Owin (4.6.0.189)
+      WebSharper (>= 4.6.2 < 4.7)
+    WebSharper.Owin (4.6.0.192)
       Microsoft.Owin (>= 3.0)
       Owin (>= 1.0 < 1.1)
-      WebSharper (>= 4.6.1 < 4.7)
+      WebSharper (>= 4.6.2 < 4.7)
 
 GROUP build
 RESTRICTION: == net45
@@ -43,7 +43,7 @@ NUGET
       FSharp.Core
     FAKE (5.16)
     FSharp.Compiler.Tools (10.2.3)
-    FSharp.Core (4.7)
+    FSharp.Core (4.7.1)
     Mono.Cecil (0.11.2)
     Newtonsoft.Json (12.0.3)
     Paket.Core (5.141)
