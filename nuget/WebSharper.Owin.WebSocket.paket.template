@@ -15,10 +15,10 @@ files
     ../WebSharper.Owin.WebSocket/bin/Release/WebSharper.Owin.WebSocket.dll ==> lib/net461
     ../WebSharper.Owin.WebSocket/bin/Release/WebSharper.Owin.WebSocket.xml ==> lib/net461
 dependencies
-        WebSharper ~> LOCKEDVERSION/3
-        Owin ~> LOCKEDVERSION/3
+        WebSharper ~> LOCKEDVERSION:[3]
+        Owin ~> LOCKEDVERSION:[3]
         Microsoft.Owin >= 3.0
-        CommonServiceLocator ~> LOCKEDVERSION/3
-        WebSharper.Owin ~> LOCKEDVERSION/3
+        CommonServiceLocator ~> LOCKEDVERSION:[3]
+        WebSharper.Owin ~> LOCKEDVERSION:[3]
 frameworkAssemblies
         System.Configuration
