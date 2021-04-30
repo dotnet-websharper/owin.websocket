@@ -21,16 +21,19 @@ NUGET
       Microsoft.Owin.FileSystems (>= 3.0)
       Owin (>= 1.0)
     Owin (1.0)
-    WebSharper (4.7.0.423)
+    System.Reflection.Emit.Lightweight (4.7)
+  remote: https://daily.websharper.com/nuget
+    WebSharper (4.7.1.426)
       FSharp.Core (>= 4.2.3)
-    WebSharper.FSharp (4.7.0.423)
-      WebSharper (4.7.0.423)
-    WebSharper.Html (4.7.0.189)
-      WebSharper (>= 4.7 < 4.8)
-    WebSharper.Owin (4.7.0.208)
+      System.Reflection.Emit.Lightweight (>= 4.3)
+    WebSharper.FSharp (4.7.1.426)
+      WebSharper (4.7.1.426)
+    WebSharper.Html (4.7.1.194)
+      WebSharper (>= 4.7.1 < 4.8)
+    WebSharper.Owin (4.7.1.212)
       Microsoft.Owin (>= 3.0)
-      Owin (>= 1.0 < 1.1)
-      WebSharper (>= 4.7 < 4.8)
+      Owin (>= 1.0 < 2.0)
+      WebSharper (>= 4.7.1 < 4.8)
 
 GROUP wsbuild
 
